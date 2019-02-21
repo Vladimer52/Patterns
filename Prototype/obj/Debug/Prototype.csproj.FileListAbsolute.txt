@@ -1,0 +1,7 @@
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Prototype\obj\Debug\Prototype.pdb

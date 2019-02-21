@@ -1,0 +1,7 @@
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Abstract Factory\obj\Debug\Abstract Factory.csprojAssemblyReference.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Abstract Factory\obj\Debug\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\Patterns\Abstract Factory\obj\Debug\Abstract Factory.pdb
