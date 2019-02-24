@@ -1,0 +1,7 @@
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\observer\bin\Debug\observer.exe.config
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\observer\bin\Debug\observer.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\observer\bin\Debug\observer.pdb
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\observer\obj\Debug\observer.csprojAssemblyReference.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\observer\obj\Debug\observer.csproj.CoreCompileInputs.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\observer\obj\Debug\observer.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\observer\obj\Debug\observer.pdb

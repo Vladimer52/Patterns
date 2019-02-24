@@ -1,0 +1,7 @@
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Strategy\obj\Debug\Strategy.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Strategy\obj\Debug\Strategy.pdb
