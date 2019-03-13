@@ -1,0 +1,6 @@
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Decorator\obj\Debug\Decorator.pdb

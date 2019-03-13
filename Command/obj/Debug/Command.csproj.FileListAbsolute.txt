@@ -1,0 +1,7 @@
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Command\bin\Debug\Command.exe.config
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Command\bin\Debug\Command.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Command\bin\Debug\Command.pdb
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Command\obj\Debug\Command.csprojAssemblyReference.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Command\obj\Debug\Command.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\Command\obj\Debug\Command.pdb

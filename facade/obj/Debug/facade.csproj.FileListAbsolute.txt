@@ -1,0 +1,6 @@
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\facade\bin\Debug\facade.exe.config
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\facade\bin\Debug\facade.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\facade\bin\Debug\facade.pdb
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\facade\obj\Debug\facade.csproj.CoreCompileInputs.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\facade\obj\Debug\facade.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\facade\obj\Debug\facade.pdb

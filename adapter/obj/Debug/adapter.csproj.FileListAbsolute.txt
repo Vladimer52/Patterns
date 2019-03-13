@@ -1,0 +1,6 @@
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\adapter\bin\Debug\adapter.exe.config
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\adapter\bin\Debug\adapter.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\adapter\bin\Debug\adapter.pdb
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\adapter\obj\Debug\adapter.csproj.CoreCompileInputs.cache
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\adapter\obj\Debug\adapter.exe
+C:\Users\Vladimer_52\Desktop\Проги для VS\Паттерны C#\patterns\adapter\obj\Debug\adapter.pdb
